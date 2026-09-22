@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-09-22T00:00:00Z",
+  "packages": {
+    "youssefahmed2017/vulpin-greetings": {
+      "owner": "youssefahmed2017",
+      "repo": "vulpin-greetings",
+      "name": "vulpin-greetings",
+      "description": "A tiny greetings package for Vulpin",
+      "tags": ["example", "greetings"],
+      "verified_at": "2026-09-22"
+    }
+  }
+}
