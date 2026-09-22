@@ -1,4 +1,13 @@
 {
   "updated_at": "2026-09-22T00:00:00Z",
-  "packages": {}
+  "packages": {
+    "youssefahmed2017/vulpin-experimental": {
+      "owner": "youssefahmed2017",
+      "repo": "vulpin-experimental",
+      "name": "vulpin-experimental",
+      "description": "An unreviewed experimental Vulpin package (for testing)",
+      "tags": ["example", "unreviewed"],
+      "submitted_at": "2026-09-22"
+    }
+  }
 }
